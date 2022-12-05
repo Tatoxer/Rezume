@@ -1,0 +1,19 @@
+header {
+    font-size: 20px;
+    font-family: Mont, sans-serif;
+    text-align: left;
+    width: 900px;
+    margin-left: 0;
+}
+body {
+    font-family: Mont, sans-serif;
+    text-align: left;
+    margin-left: 50px;
+}
+body>li {
+    font-weight: bold;
+    font-size: 15px;
+}
+.about {
+    width: 900px;
+}
